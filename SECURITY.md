@@ -9,6 +9,10 @@ Report vulnerabilities privately through GitHub's
 open the affected repository, go to **Security → Report a vulnerability**, or use
 [this link for k8s-servant](https://github.com/k8s-servant/k8s-servant/security/advisories/new).
 
+If you cannot use GitHub's form, email **security@k8s-servant.dev** instead. Please
+don't include exploit details in the first message if you'd rather agree on an
+encrypted channel first.
+
 Please include:
 
 - affected version (image tag, chart version or commit)
